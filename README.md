@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Madhav Gutte
 
-<!--
-**madhavgutte45/madhavgutte45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Python | C/C++ | SQL | AI/ML & Data Science
 
-Here are some ideas to get you started:
+🎓 Diploma Computer Engineering student at Government Polytechnic Pune.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy building practical projects and learning new technologies.
+
+### 🚀 Projects
+
+- 🐍 Student Expense Tracker — Python
+- 🐍 Student Result Management System — Python
+- 🎮 Tic-Tac-Toe Game — C
+
+### 🛠️ Skills
+
+- Python
+- C
+- C++
+- SQL
+- Data Structures
+- Data Analysis
+- Machine Learning
+- Artificial Intelligence
+- Git & GitHub
+
+### 🌱 Currently Learning
+
+Data Science, Artificial Intelligence, Machine Learning and Software Development.
+
+### 🔗 Connect with me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
