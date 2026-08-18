@@ -30,4 +30,4 @@ Data Science, Artificial Intelligence, Machine Learning and Software Development
 
 ### 🔗 Connect with me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/madhav-gutte-a90b3642a)
